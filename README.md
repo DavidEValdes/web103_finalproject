@@ -24,7 +24,7 @@ Backend: Express.js, Node.js, PostgreSQL
 
 ## Features
 
-### [Personalized Date Suggestions]
+### Personalized Date Suggestions
 
 The home feed displays date ideas tailored to the user’s preferences. Each suggestion is personalized based on factors like location, hobbies, and interests.
 
@@ -36,7 +36,7 @@ Users can click on each date idea to view more details. The post pages allow use
 
 [gif goes here]
 
-### [Dynamic Home Feed]
+### Dynamic Home Feed
 
 The app provides a constantly updating home feed that displays new and trending date ideas based on user engagement and location.
 
