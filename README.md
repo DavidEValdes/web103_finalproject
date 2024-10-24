@@ -1,8 +1,8 @@
-# [your app name here]
+# Build a Date
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: [David Valdes, Matt Dembiczak, Dibas Dauliya]
 
 🔗 Link to deployed app:
 
@@ -10,35 +10,35 @@ Designed and developed by: [your names here]
 
 ### Description and Purpose
 
-[text goes here]
+Build a Date personalizes unique date ideas for users. The app consists of a dynamic home feed where users can view personalized date suggestions and interact with others’ posts. Each post has a dedicated detail page, offering more information and options to like, comment, or share date ideas.
 
 ### Inspiration
 
-[text goes here]
+The app is inspired by the need for a personalized approach to date planning. It aims to help couples or individuals discover fun and unique experiences tailored to their preferences, making date planning less stressful, easier, and more exciting.
 
 ## Tech Stack
 
-Frontend:
+Frontend: React.js
 
-Backend:
+Backend: Express.js, Node.js, PostgreSQL
 
 ## Features
 
-### [Name of Feature 1]
+### [Personalized Date Suggestions]
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 2]
-
-[short description goes here]
+The home feed displays date ideas tailored to the user’s preferences. Each suggestion is personalized based on factors like location, hobbies, and interests.
 
 [gif goes here]
 
-### [Name of Feature 3]
+### Interactive Post Pages
 
-[short description goes here]
+Users can click on each date idea to view more details. The post pages allow users to like, comment, or bookmark date ideas for future reference.
+
+[gif goes here]
+
+### [Dynamic Home Feed]
+
+The app provides a constantly updating home feed that displays new and trending date ideas based on user engagement and location.
 
 [gif goes here]
 
