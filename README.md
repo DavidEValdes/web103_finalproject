@@ -2,7 +2,7 @@
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [David Valdes, Matt Dembiczak, Dibas Dauliya]
+Designed and developed by: David Valdes, Matt Dembiczak, Dibas Dauliya
 
 🔗 Link to deployed app:
 
